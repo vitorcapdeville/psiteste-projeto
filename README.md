@@ -5,6 +5,6 @@ Pesquisadores podem usar o aplicativo para corrigir testes aplicados pelo aplica
 
 - Links do projeto:
 
-   1. [Lean Inception (Miro)]([https://link-url-here.org](https://miro.com/app/board/uXjVKYMEBmE=/?share_link_id=976504870402))
+   1. [Lean Inception (Miro)](https://miro.com/app/board/uXjVKYMEBmE=/?share_link_id=976504870402)
    2. [Sprints (Jira)](https://vitor771.atlassian.net/jira/software/projects/PSIT/boards/5) - não é público.
    3. [Wireframe (Figma)](https://www.figma.com/file/frFFDadDbAX1bithAsqqNt/PsiTeste?type=design&node-id=0%3A1&mode=design&t=NRY6N3DsxBNrCo74-1)
